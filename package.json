@@ -34,11 +34,6 @@
     "man",
     "webroot"
   ],
-  "scripts": {
-    "prepublish": "grunt",
-    "test": "grunt test",
-    "start": "bin/stubby"
-  },
   "bin": {
     "stubby": "bin/stubby"
   },
